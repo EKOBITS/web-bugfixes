@@ -1,0 +1,41 @@
+html, body{
+	height: 100%;
+}
+.mid-page{
+	margin: 10% auto;
+}
+
+/*.slideshow{
+	height: 200px;
+}
+.item {
+	height: 200px;
+}*/
+.img-slide{
+	max-height: 300px;
+	max-width: 200px;
+}
+
+.img-fade{
+	opacity: 0.5
+}
+.img-fd-txt{
+	position: absolute;
+	text-align: center;
+	font-size: 30px;
+}
+
+.bg{
+	height: 100%;
+	background-image: url(../images/tmfad.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo{
+	max-width: 200px;
+	max-height: 200px;
+	margin-left: 0;
+	padding: 0;
+}
